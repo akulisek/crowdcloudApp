@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="479217240">
+    <data-source source="LOCAL" name="Rails crowdcloudApp: development" uuid="130f3c51-fdee-42ec-9a25-24bc104e2f2f">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/crowdcloud_development</jdbc-url>
+      <user-name>crowdcloud</user-name>
+      <user-password>dfc9dfd8dfc5dfdddfcedfc9dfc6dfc5dfdfdfce</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails crowdcloudApp: test" uuid="59def7aa-ad35-4947-959b-445957991c3e">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/crowdcloud_development</jdbc-url>
+      <user-name>crowdcloud</user-name>
+      <user-password>dfc9dfd8dfc5dfdddfcedfc9dfc6dfc5dfdfdfce</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails crowdcloudApp: production" uuid="51b1f6d1-ac7f-4ea1-b7db-a78af95325fe">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/crowdcloudApp_production</jdbc-url>
+      <user-name>crowdcloudApp</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfe9dff8dfe5dffddfeedfe9dfe6dfe5dfffdfeedfebdffadffadff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

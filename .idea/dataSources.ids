@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails crowdcloudApp: development" uuid="130f3c51-fdee-42ec-9a25-24bc104e2f2f">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails crowdcloudApp: test" uuid="59def7aa-ad35-4947-959b-445957991c3e">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails crowdcloudApp: production" uuid="51b1f6d1-ac7f-4ea1-b7db-a78af95325fe">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
